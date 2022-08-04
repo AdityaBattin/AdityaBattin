@@ -8,8 +8,9 @@
 - 😄 Pronouns: ... He/him/bro 
 - ⚡ Fun fact: ... "I may be a little shy person but i am Techno Fan"
 
-<img  align = "center" src = "https://github-readme-stats.vercel.app/api?username=AdityaBattin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
+
+<p align = "center"> <img  align = "center" src = "https://github-readme-stats.vercel.app/api?username=AdityaBattin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"><p>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBattin&" alt="yashkondewar" /></p>
