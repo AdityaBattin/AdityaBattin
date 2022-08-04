@@ -6,6 +6,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaBattin" alt="Aditya Battin" /></a> </p>
 
+<p align = "center">
+- 🔭 I’m currently working on ... Webdev Projects 📌
+- 🌱 I’m currently learning ... React and NodeJS
+- 👯 I’m looking to collaborate on ... Github 🌟
+- 🤔 I’m looking for help with ... Project Ideas💡
+- 📫 How to reach me: ... [Youtube - Bunty Battin](https://www.youtube.com/channel/UC38_UDy54AX77CH50Vv8vqw), [Instagram - Aditya Battin](https://www.instagram.com/aditya_battin/)
+- 😄 Pronouns: ... He/him/bro 
+- ⚡ Fun fact: ... "I may be a little shy person but i am Techno Fan"</p>
+
 - 🔭 I’m currently working on ... Webdev Projects 📌
 - 🌱 I’m currently learning ... React and NodeJS
 - 👯 I’m looking to collaborate on ... Github 🌟
