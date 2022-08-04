@@ -9,3 +9,6 @@
 - ⚡ Fun fact: ... "I may be a little shy person but i am Techno Fan"
 
 <img src = "https://github-readme-stats.vercel.app/api?username=AdityaBattin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=AdityaBattin&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
