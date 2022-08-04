@@ -1,4 +1,10 @@
-### Hemlo Friends, I am Aditya Battin 👋
+<h1 align="center">Hi 👋, I'm Aditya Battin</h1>
+<h3 align="center">A Computer Science Student and developer</h3><div g align="center">
+<img src="https://raw.githubusercontent.com/yashkondewar/yashkondewar/master/Github My img.gif" width=300>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AdityaBattin&label=Profile%20views&color=0e75b6&style=flat" alt="yashkondewar" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaBattin" alt="Aditya Battin" /></a> </p>
 
 - 🔭 I’m currently working on ... Webdev Projects 📌
 - 🌱 I’m currently learning ... React and NodeJS
